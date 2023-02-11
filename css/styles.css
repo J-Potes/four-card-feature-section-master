@@ -120,13 +120,18 @@ p {
 
 .card {
     background-color: var(--white);
-    height: 20rem;
+    height: 21rem;
     max-width: 30rem;
-    border-radius: 1.2rem;
+    border-radius: 1.1rem;
     margin: 1rem;
     padding: 2.5rem;
     border-top-style: solid;
     border-top-width: .4rem;
+
+    -webkit-box-shadow: 1px 16px 22px -3px rgba(171,171,171,0.53);
+    -moz-box-shadow: 1px 16px 22px -3px rgba(171,171,171,0.53);
+    box-shadow: 1px 16px 22px -3px rgba(171,171,171,0.53);
+    margin-top: 2rem;
 }
 
 .card__title {
@@ -139,7 +144,12 @@ p {
 .card__text {
     font-size: 1.2rem;
     margin: 0;
+}
 
+.card__icon {
+    width: 5rem;
+    float: right;
+    margin-top: 2rem;
 }
 
 .cards__c1 {
