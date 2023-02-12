@@ -24,12 +24,13 @@ Users should be able to:
 
 ### Screenshot
 
-
+![Screenshot 2023-02-12 at 15-37-10 Frontend Mentor Four card feature section](https://user-images.githubusercontent.com/119544731/218335795-e9ec31d4-1f18-43fd-8110-38b07428402b.png)
+![Screenshot 2023-02-12 at 15-37-42 Frontend Mentor Four card feature section](https://user-images.githubusercontent.com/119544731/218335802-7be1756c-115c-4b62-8546-adf2e1c02faa.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/responsive-four-card-section-using-flexbox-o8qn26Pxjx](https://www.frontendmentor.io/solutions/responsive-four-card-section-using-flexbox-o8qn26Pxjx)
+- Live Site URL: [https://four-card-section-exercise.netlify.app/](https://four-card-section-exercise.netlify.app/)
 
 ## My process
 
